@@ -14072,3 +14072,1432 @@ Please see Output Log for details.
 [2021.04.18-21.15.03:542][240]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.18-21.15.03:543][240]LogContentValidation: Display: Validating World /Game/Level1.Level1
 [2021.04.18-21.15.03:543][240]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2021.04.18-21.18.46:875][ 65]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 A:\MechAssets\Meshes\Spider_Core\Spider_Core_Anim_Idle.fbx)
+[2021.04.18-21.18.46:898][ 65]LogFbx: Loading FBX Scene from A:\MechAssets\Meshes\Spider_Core\Spider_Core_Anim_Idle.fbx
+[2021.04.18-21.18.46:921][ 65]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.18-21.18.57:611][ 65]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(0) Root
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(1) Core
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(2) EyeTop_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(3) EyeTop_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(4) EyeBack_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(5) HipBack_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(6) LegBack_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(7) KneeBack_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(8) AnkleBack_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(9) ToeBack_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(10) HipBack_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(11) LegBack_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(12) KneeBack_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(13) AnkleBack_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(14) ToeBack_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(15) HipFront_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(16) LegFront_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(17) KneeFront_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(18) AnkleFront_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(19) ToeFront_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(20) HipFront_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(21) LegFront_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(22) KneeFront_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(23) AnkleFront_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(24) ToeFront_L
+[2021.04.18-21.18.57:636][ 65]LogFbx: SortedLinks :(25) EyeBack_R
+[2021.04.18-21.18.57:636][ 65]LogFbx: Parsing AnimStack Unreal Take
+[2021.04.18-21.18.57:993][ 65]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Idle.Spider_Core_Anim_Idle
+[2021.04.18-21.18.57:993][ 65]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Idle.Spider_Core_Anim_Idle
+[2021.04.18-21.18.57:993][ 65]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 A:\MechAssets\Meshes\Spider_Core\Spider_Core_Anim_Walk.fbx)
+[2021.04.18-21.18.58:010][ 65]LogFbx: Loading FBX Scene from A:\MechAssets\Meshes\Spider_Core\Spider_Core_Anim_Walk.fbx
+[2021.04.18-21.18.58:031][ 65]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(0) Root
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(1) Core
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(2) EyeTop_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(3) EyeTop_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(4) EyeBack_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(5) HipBack_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(6) LegBack_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(7) KneeBack_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(8) AnkleBack_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(9) ToeBack_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(10) HipBack_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(11) LegBack_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(12) KneeBack_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(13) AnkleBack_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(14) ToeBack_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(15) HipFront_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(16) LegFront_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(17) KneeFront_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(18) AnkleFront_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(19) ToeFront_R
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(20) HipFront_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(21) LegFront_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(22) KneeFront_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(23) AnkleFront_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(24) ToeFront_L
+[2021.04.18-21.18.58:032][ 65]LogFbx: SortedLinks :(25) EyeBack_R
+[2021.04.18-21.18.58:033][ 65]LogFbx: Parsing AnimStack Unreal Take
+[2021.04.18-21.18.58:180][ 66]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Walk.Spider_Core_Anim_Walk
+[2021.04.18-21.19.06:201][350]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Idle.Spider_Core_Anim_Idle
+[2021.04.18-21.19.06:208][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.19.06:255][350]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.18-21.19.06:611][350]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.18-21.19.28:096][ 98]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_Anim_IdleB26F36CB43985457F2C46FB74176EE48.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Idle.uasset'
+[2021.04.18-21.19.28:123][ 98]AssetCheck: New page: Asset Save: Spider_Core_Anim_Idle
+[2021.04.18-21.19.28:123][ 98]LogContentValidation: Display: Validating AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Idle.Spider_Core_Anim_Idle
+[2021.04.18-21.19.30:788][194]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.19.30:788][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.19.30:827][194]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.19.30:827][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.19.31:093][194]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.19.31:093][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.19.42:706][686]LogSlate: Window 'Pick Skeleton' being destroyed
+[2021.04.18-21.19.51:097][880]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/MechCombat/meshes/Ai_Spider_Bomb/Walk_Bs.Walk_Bs
+[2021.04.18-21.19.51:103][880]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.19.51:145][880]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.18-21.19.51:474][880]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.18-21.20.36:547][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/meshes/Ai_Spider_Bomb/Walk_Bs" FILE="A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Walk_Bs.uasset" SILENT=true
+[2021.04.18-21.20.36:554][302]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Walk_BsF14E597E4ADD7CD508DEF383C1EAA8B5.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Walk_Bs.uasset'
+[2021.04.18-21.20.36:577][302]AssetCheck: New page: Asset Save: Walk_Bs
+[2021.04.18-21.20.36:577][302]LogContentValidation: Display: Validating BlendSpace /Game/MechCombat/meshes/Ai_Spider_Bomb/Walk_Bs.Walk_Bs
+[2021.04.18-21.21.13:431][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.21.18:711][320]LogAnimation: Warning: AnimBP Mech_Anim_BP_C is incompatible with skeleton Spider_Core_Skeleton, removing AnimBP from actor.
+[2021.04.18-21.21.18:711][320]LogAnimation: Warning: AnimBP Mech_Anim_BP_C is incompatible with skeleton Spider_Core_Skeleton, removing AnimBP from actor.
+[2021.04.18-21.21.18:711][320]LogAnimation: Warning: AnimBP Mech_Anim_BP_C is incompatible with skeleton Spider_Core_Skeleton, removing AnimBP from actor.
+[2021.04.18-21.21.34:764][907]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.04.18-21.21.34:800][907]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.04.18-21.21.38:852][907]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.04.18-21.21.48:645][159]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MechCombat/meshes/Ai_Spider_Bomb/spider_Core_AnimBP.spider_Core_AnimBP
+[2021.04.18-21.21.48:653][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.21.48:982][159]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.18-21.21.49:394][159]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.18-21.24.04:818][445]BlueprintLog: New page: Compile spider_Core_AnimBP
+[2021.04.18-21.24.04:824][445]LogBlueprint: Warning: [Compiler spider_Core_AnimBP] idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2021.04.18-21.24.04:824][445]LogBlueprint: Warning: [Compiler spider_Core_AnimBP] walk to idle  will never be taken, please connect something to  Can Enter Transition
+[2021.04.18-21.24.04:825][445]LogBlueprint: Error: [Compiler spider_Core_AnimBP] The type of  Object  is undetermined.  Connect something to  Cast To Spider_Bomb  to imply a specific type.
+[2021.04.18-21.24.04:825][445]LogBlueprint: Error: [Compiler spider_Core_AnimBP] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.04.18-21.24.04:968][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.04.18-21.25.44:752][312]BlueprintLog: New page: Compile spider_Core_AnimBP
+[2021.04.18-21.25.44:832][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.04.18-21.25.45:554][334]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/spider_Core_AnimBP8F99D6324931FA62B48D2B85C31FFB55.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/spider_Core_AnimBP.uasset'
+[2021.04.18-21.25.45:598][334]AssetCheck: New page: Asset Save: spider_Core_AnimBP
+[2021.04.18-21.25.45:598][334]LogContentValidation: Display: Validating AnimBlueprint /Game/MechCombat/meshes/Ai_Spider_Bomb/spider_Core_AnimBP.spider_Core_AnimBP
+[2021.04.18-21.25.47:852][419]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.25.47:959][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.04.18-21.25.48:444][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.25.48:459][433]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_BombA140314344C83DEDD0FDAD834BE86FF6.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.25.48:484][433]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.25.48:484][433]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.26.02:612][855]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.18-21.26.13:817][288]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.26.13:920][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.04.18-21.26.14:424][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.26.14:443][302]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb11D24D4549DDC4BCFBBA3AB7F698F9D0.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.26.14:466][302]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.26.14:466][302]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.26.25:257][784]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.04.18-21.26.25:965][818]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.26.25:980][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.26.25:980][818]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:26:25 AM)
+[2021.04.18-21.26.25:981][818]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.26.26:010][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028808s)
+[2021.04.18-21.26.26:012][818]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.26.26:012][818]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D0050AB600), frame # 638818
+[2021.04.18-21.26.26:012][818]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CE8C6A0E00), frame # 638818
+[2021.04.18-21.26.26:012][818]LogPlayLevel: PIE: World Init took: (0.002573s)
+[2021.04.18-21.26.26:012][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.031679s)
+[2021.04.18-21.26.26:066][818]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.04.18-21.26.26:068][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.26.26:068][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.26.26:068][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.26.26:068][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.26.26:069][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.26.26:069][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.26.26:069][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.26.26:069][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.26.26:069][818]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.26.26:069][818]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.26.26:074][818]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.26.26:074][818]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.26.26:185][818]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.26.26:186][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.26.26:186][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.26.26:186][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.26.26:188][818]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.26.26:208][818]LogInit: FAudioDevice initialized.
+[2021.04.18-21.26.26:221][818]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.26.26:227][818]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.04.19-00.26.26
+[2021.04.18-21.26.26:227][818]LogWorld: Bringing up level for play took: 0.004657
+[2021.04.18-21.26.26:227][818]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2021.04.18-21.26.26:241][818]PIE: Server logged in
+[2021.04.18-21.26.26:242][818]PIE: Play in editor total start time 0.263 seconds.
+[2021.04.18-21.27.04:822][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.27.04:822][107]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.27.04:822][107]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.27.04:823][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.27.04:832][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.27.04:837][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.27.04:899][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.27.04:901][107]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CE8C6A0E00), frame # 641107
+[2021.04.18-21.27.04:902][107]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D0050AB600), frame # 641107
+[2021.04.18-21.27.04:905][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.04.18-21.27.04:937][108]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2021.04.18-21.27.34:092][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.04.18-21.27.34:095][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/Level1_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.18-21.27.34:267][781]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1_Auto9B8E528DC4F312DC0F283E9A37F112AA2.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/Level1_Auto9.umap'
+[2021.04.18-21.27.34:268][781]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level1' took 0.216
+[2021.04.18-21.27.34:268][781]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2021.04.18-21.27.34:268][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim] ([1] browsable assets)...
+[2021.04.18-21.27.34:287][781]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim.Spider_Core_Anim]
+[2021.04.18-21.27.34:287][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim]
+[2021.04.18-21.27.34:295][781]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_Anim_Auto96AB63CC6493E277392A70BBB39144FCF.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Auto9.uasset'
+[2021.04.18-21.27.34:296][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_PhysicsAsset] ([1] browsable assets)...
+[2021.04.18-21.27.34:315][781]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_PhysicsAsset.Spider_Core_PhysicsAsset]
+[2021.04.18-21.27.34:315][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_PhysicsAsset]
+[2021.04.18-21.27.34:328][781]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_PhysicsAsset_Auto9A977F2574735913CDACA4A8808F08B5E.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_PhysicsAsset_Auto9.uasset'
+[2021.04.18-21.27.34:329][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core] ([1] browsable assets)...
+[2021.04.18-21.27.34:349][781]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core.Spider_Core]
+[2021.04.18-21.27.34:349][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core]
+[2021.04.18-21.27.34:382][781]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_Auto9F527A9D447559E672309429DCCB11E9A.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Auto9.uasset'
+[2021.04.18-21.27.34:383][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Skeleton] ([1] browsable assets)...
+[2021.04.18-21.27.34:383][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Skeleton]
+[2021.04.18-21.27.34:385][781]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_Skeleton_Auto99D060CBB4CC3C16A21CB04B71213FF67.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Skeleton_Auto9.uasset'
+[2021.04.18-21.27.34:386][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Walk] ([1] browsable assets)...
+[2021.04.18-21.27.34:405][781]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Walk.Spider_Core_Anim_Walk]
+[2021.04.18-21.27.34:405][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Walk]
+[2021.04.18-21.27.34:412][781]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_Anim_Walk_Auto93F0B2F784196EA048166478CA9A5ADBA.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Walk_Auto9.uasset'
+[2021.04.18-21.27.34:413][781]LogFileHelpers: Auto-saving content packages took 0.145
+[2021.04.18-21.29.01:518][728]LogAssetTools: Warning: Failed to import 'A:\MechAssets\Meshes\Spider_Explosive\Spider_Bomb_Anim_Bomb_On.uasset'. Unknown extension 'uasset'.
+[2021.04.18-21.29.01:523][728]LogAssetTools: Warning: Failed to import 'A:\MechAssets\Meshes\Spider_Explosive\Spider_Bomb_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2021.04.18-21.29.01:527][728]LogAssetTools: Warning: Failed to import 'A:\MechAssets\Meshes\Spider_Explosive\Spider_Bomb_Skeleton.uasset'. Unknown extension 'uasset'.
+[2021.04.18-21.29.01:533][728]LogAssetTools: Warning: Failed to import 'A:\MechAssets\Meshes\Spider_Explosive\Spider_Bomb.uasset'. Unknown extension 'uasset'.
+[2021.04.18-21.29.01:539][728]LogAssetTools: Warning: Failed to import 'A:\MechAssets\Meshes\Spider_Explosive\Spider_Bomb_Anim_Bomb_Off.uasset'. Unknown extension 'uasset'.
+[2021.04.18-21.29.51:670][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Robo': Can't find file.
+[2021.04.18-21.29.51:670][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Robo': Can't find file.
+[2021.04.18-21.29.51:670][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_PhysicsAsset': Can't find file.
+[2021.04.18-21.29.51:670][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_PhysicsAsset': Can't find file.
+[2021.04.18-21.29.51:670][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.29.51:671][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.29.51:671][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Robo': Can't find file.
+[2021.04.18-21.29.51:671][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Robo': Can't find file.
+[2021.04.18-21.29.51:671][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_PhysicsAsset': Can't find file.
+[2021.04.18-21.29.51:671][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_PhysicsAsset': Can't find file.
+[2021.04.18-21.29.51:671][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.29.51:671][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.29.51:671][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.29.51:671][994]LoadErrors: Failed to load /Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton.Spider_Bomb_Skeleton Referenced by Spider_Bomb
+[2021.04.18-21.29.51:672][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.29.51:672][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_PhysicsAsset': Can't find file.
+[2021.04.18-21.29.51:672][994]LoadErrors: Failed to load /Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_PhysicsAsset.Spider_Bomb_PhysicsAsset Referenced by Spider_Bomb
+[2021.04.18-21.29.51:672][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_PhysicsAsset': Can't find file.
+[2021.04.18-21.29.51:672][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Robo': Can't find file.
+[2021.04.18-21.29.51:672][994]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Robo.Robo Referenced by Spider_Bomb
+[2021.04.18-21.29.51:672][994]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/Robo': Can't find file.
+[2021.04.18-21.29.51:675][994]LogSkeletalMesh: Building Skeletal Mesh Spider_Bomb...
+[2021.04.18-21.29.51:676][994]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.29.51:731][994]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.29.52:940][994]LogSlate: Window 'Message' being destroyed
+[2021.04.18-21.29.52:948][994]Message dialog closed, result: Yes, title: Message, text: This mesh currently has no valid Skeleton. Would you like to create a new Skeleton?
+[2021.04.18-21.29.52:962][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.30.04:075][308]LogSkeletalMesh: Building Skeletal Mesh Spider_Bomb...
+[2021.04.18-21.30.04:076][308]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.30.27:432][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.30.27:445][877]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_BombDDAD5EA6415EA2FCEA80C59B8E4E3E96.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.uasset'
+[2021.04.18-21.30.27:464][877]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.30.27:464][877]LogContentValidation: Display: Validating SkeletalMesh /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.30.31:114][993]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.31:114][993]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.31:114][993]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.31:114][993]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.31:115][993]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.31:115][993]LoadErrors: Failed to load /Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton.Spider_Bomb_Skeleton Referenced by Spider_Bomb_Anim_Bomb_Off
+[2021.04.18-21.30.31:115][993]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.31:189][993]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.Spider_Bomb_Anim_Bomb_Off
+[2021.04.18-21.30.32:353][993]LogSlate: Window 'Message' being destroyed
+[2021.04.18-21.30.32:361][993]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim 'Spider_Bomb_Anim_Bomb_Off' Would you like to choose a new one?
+[2021.04.18-21.30.32:532][993]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.04.18-21.30.41:891][472]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.Spider_Bomb_Anim_Bomb_Off
+[2021.04.18-21.30.41:952][472]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.Spider_Bomb_Anim_Bomb_Off
+[2021.04.18-21.30.41:957][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.30.42:398][472]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.04.18-21.30.42:401][472]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.30.42:401][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.30.42:421][472]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.30.42:422][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.30.42:746][472]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.18-21.30.49:518][689]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.49:518][689]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.49:518][689]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.49:518][689]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.49:518][689]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.49:518][689]LoadErrors: Failed to load /Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton.Spider_Bomb_Skeleton Referenced by Spider_Bomb_Anim_Bomb_On
+[2021.04.18-21.30.49:518][689]LogLinker: Warning: While loading 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.uasset' failed to load '/Game/Assets/Characters/Enemy/Spiders/Spider_Bomb/Spider_Bomb_Skeleton': Can't find file.
+[2021.04.18-21.30.49:573][689]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.Spider_Bomb_Anim_Bomb_On
+[2021.04.18-21.30.50:615][689]LogSlate: Window 'Message' being destroyed
+[2021.04.18-21.30.50:622][689]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim 'Spider_Bomb_Anim_Bomb_On' Would you like to choose a new one?
+[2021.04.18-21.30.50:764][689]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.04.18-21.30.57:125][ 50]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.Spider_Bomb_Anim_Bomb_On
+[2021.04.18-21.30.57:125][ 50]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.Spider_Bomb_Anim_Bomb_On
+[2021.04.18-21.30.57:184][ 50]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.Spider_Bomb_Anim_Bomb_On
+[2021.04.18-21.30.57:311][ 50]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.04.18-21.30.57:314][ 50]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.30.57:314][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.30.57:329][ 50]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.30.57:329][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.30.57:444][ 50]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.Spider_Bomb_Anim_Bomb_On
+[2021.04.18-21.30.57:562][ 50]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.30.57:562][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.02:766][221]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb_Anim_Bomb_On3362EEC94F3DEEAFC346C795CF0B88E1.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.uasset'
+[2021.04.18-21.31.02:790][221]AssetCheck: New page: Asset Save: Spider_Bomb_Anim_Bomb_On
+[2021.04.18-21.31.02:790][221]LogContentValidation: Display: Validating AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_On.Spider_Bomb_Anim_Bomb_On
+[2021.04.18-21.31.09:807][407]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Skeleton.Spider_Core_Skeleton
+[2021.04.18-21.31.09:812][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.31.09:858][407]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.18-21.31.13:318][506]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_Skeleton3F2731B84A4848B291560587BC817E62.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Skeleton.uasset'
+[2021.04.18-21.31.13:360][506]AssetCheck: New page: Asset Save: Spider_Core_Skeleton
+[2021.04.18-21.31.13:361][506]LogContentValidation: Display: Validating Skeleton /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Skeleton.Spider_Core_Skeleton
+[2021.04.18-21.31.15:972][600]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.15:972][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.19:001][690]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_PhysicsAsset.Spider_Core_PhysicsAsset
+[2021.04.18-21.31.19:010][690]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.31.20:237][707]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_PhysicsAssetF91D4E1048F6D20EC609878915AD324B.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_PhysicsAsset.uasset'
+[2021.04.18-21.31.20:286][707]AssetCheck: New page: Asset Save: Spider_Core_PhysicsAsset
+[2021.04.18-21.31.20:286][707]LogContentValidation: Display: Validating PhysicsAsset /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_PhysicsAsset.Spider_Core_PhysicsAsset
+[2021.04.18-21.31.27:611][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="A:/licenta low poly/MechCombatGame/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.18-21.31.27:670][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.04.18-21.31.27:824][ 34]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level14220CFDA4B9DE1A5E67FAF8CC92F0F5A.tmp' to 'A:/licenta low poly/MechCombatGame/Content/Level1.umap'
+[2021.04.18-21.31.27:841][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="A:/licenta low poly/MechCombatGame/Content/Level1_BuiltData.uasset" SILENT=true
+[2021.04.18-21.31.28:517][ 34]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1_BuiltData0D3A013849EE69607194E5A06D1FB495.tmp' to 'A:/licenta low poly/MechCombatGame/Content/Level1_BuiltData.uasset'
+[2021.04.18-21.31.28:568][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.18-21.31.28:568][ 34]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2021.04.18-21.31.28:568][ 34]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2021.04.18-21.31.31:878][125]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Walk.Spider_Core_Anim_Walk
+[2021.04.18-21.31.34:076][195]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_Anim_Walk3F9DE2CA463D51B6A7F92B98A4772B0B.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Walk.uasset'
+[2021.04.18-21.31.34:117][195]AssetCheck: New page: Asset Save: Spider_Core_Anim_Walk
+[2021.04.18-21.31.34:117][195]LogContentValidation: Display: Validating AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim_Walk.Spider_Core_Anim_Walk
+[2021.04.18-21.31.36:853][276]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core.Spider_Core
+[2021.04.18-21.31.36:857][276]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.31.36:902][276]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.18-21.31.38:473][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core" FILE="A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core.uasset" SILENT=true
+[2021.04.18-21.31.38:508][309]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_CoreDE4FA0A24FA13EC4DB327792203D3007.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core.uasset'
+[2021.04.18-21.31.38:555][309]AssetCheck: New page: Asset Save: Spider_Core
+[2021.04.18-21.31.38:555][309]LogContentValidation: Display: Validating SkeletalMesh /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core.Spider_Core
+[2021.04.18-21.31.40:007][356]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.40:007][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.40:436][368]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.40:436][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.40:443][368]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.40:444][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.40:753][368]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.40:754][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.41:264][386]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.41:264][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.41:737][398]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.41:737][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.41:768][398]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.41:769][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.42:036][398]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.42:036][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.42:376][412]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.42:376][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.42:941][424]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.42:941][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.45:193][487]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Skeleton1.Spider_Bomb_Skeleton1
+[2021.04.18-21.31.45:199][487]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.31.46:333][506]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb_Skeleton1888AC1944F2B653757D87881E60BCCDF.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Skeleton1.uasset'
+[2021.04.18-21.31.46:361][506]AssetCheck: New page: Asset Save: Spider_Bomb_Skeleton1
+[2021.04.18-21.31.46:361][506]LogContentValidation: Display: Validating Skeleton /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Skeleton1.Spider_Bomb_Skeleton1
+[2021.04.18-21.31.47:385][544]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.47:385][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.49:801][612]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim.Spider_Core_Anim
+[2021.04.18-21.31.49:968][612]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.49:968][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.51:105][648]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Core_Anim6659B39E4C98555EA925EB87A5503975.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim.uasset'
+[2021.04.18-21.31.51:138][648]AssetCheck: New page: Asset Save: Spider_Core_Anim
+[2021.04.18-21.31.51:138][648]LogContentValidation: Display: Validating AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Core_Anim.Spider_Core_Anim
+[2021.04.18-21.31.52:090][685]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.52:091][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.52:129][685]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.52:129][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.31.52:456][685]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.31.52:456][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.32.07:473][957]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.04.18-21.32.07:503][957]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.04.18-21.32.10:389][957]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.04.18-21.32.20:246][161]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.Bomb_Anim_BP
+[2021.04.18-21.32.20:255][161]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.32.20:847][161]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.18-21.32.35:969][751]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.32.35:969][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.32.35:980][751]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.32.35:980][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.32.36:829][751]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.32.36:829][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.33.18:944][354]BlueprintLog: New page: Compile Bomb_Anim_BP
+[2021.04.18-21.33.18:946][354]LogBlueprint: Warning: [Compiler Bomb_Anim_BP] idle to active  will never be taken, please connect something to  Can Enter Transition
+[2021.04.18-21.33.19:079][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.04.18-21.33.26:445][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.33.28:920][733]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.33.28:920][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.33.29:027][733]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.33.44:788][617]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.33.44:928][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.04.18-21.34.44:927][728]BlueprintLog: New page: Compile Bomb_Anim_BP
+[2021.04.18-21.34.44:931][728]LogBlueprint: Warning: [Compiler Bomb_Anim_BP] idle to active  will never be taken, please connect something to  Can Enter Transition
+[2021.04.18-21.34.44:981][728]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.04.18-21.34.51:600][ 56]BlueprintLog: New page: Compile Bomb_Anim_BP
+[2021.04.18-21.34.51:663][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.04.18-21.34.52:140][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP" FILE="A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.uasset" SILENT=true
+[2021.04.18-21.34.52:162][ 74]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Bomb_Anim_BPCCD9366C4B059091AA98D2B8D060267F.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.uasset'
+[2021.04.18-21.34.52:195][ 74]AssetCheck: New page: Asset Save: Bomb_Anim_BP
+[2021.04.18-21.34.52:196][ 74]LogContentValidation: Display: Validating AnimBlueprint /Game/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.Bomb_Anim_BP
+[2021.04.18-21.34.55:590][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.34.55:610][248]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_BombB57232E84F130394B02538B34563BEAC.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.34.55:629][248]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.34.55:630][248]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.35.38:004][136]BlueprintLog: New page: Compile Bomb_Anim_BP
+[2021.04.18-21.35.38:077][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.04.18-21.35.38:927][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP" FILE="A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.uasset" SILENT=true
+[2021.04.18-21.35.38:960][174]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Bomb_Anim_BP11C3293B42C8FB84DEF9FA82BBD5A0DD.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.uasset'
+[2021.04.18-21.35.38:988][174]AssetCheck: New page: Asset Save: Bomb_Anim_BP
+[2021.04.18-21.35.38:988][174]LogContentValidation: Display: Validating AnimBlueprint /Game/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.Bomb_Anim_BP
+[2021.04.18-21.35.41:235][270]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.35.41:312][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.04.18-21.35.41:823][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.35.41:841][284]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb9DA1B24B4ED447058FC4BEB4B46946BD.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.35.41:864][284]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.35.41:865][284]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.36.20:957][ 72]Cmd: MODE ROTGRID=1
+[2021.04.18-21.36.28:111][402]Cmd: MODE ROTGRID=0
+[2021.04.18-21.37.21:773][126]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.18-21.38.12:004][349]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.38.12:098][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.04.18-21.38.12:890][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.38.12:911][377]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_BombC96219A6484268A5CE0D8680DAEBA6BC.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.38.12:936][377]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.38.12:936][377]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.38.14:654][458]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.38.14:665][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.38.14:665][458]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:38:14 AM)
+[2021.04.18-21.38.14:665][458]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.38.14:691][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025612s)
+[2021.04.18-21.38.14:692][458]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.38.14:692][458]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CE6EAE5A00), frame # 663458
+[2021.04.18-21.38.14:692][458]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CDC0642700), frame # 663458
+[2021.04.18-21.38.14:692][458]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2021.04.18-21.38.14:692][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.027350s)
+[2021.04.18-21.38.14:728][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.04.18-21.38.14:731][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.38.14:731][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.38.14:731][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.38.14:731][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.38.14:731][458]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.38.14:731][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.38.14:731][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.38.14:731][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.38.14:731][458]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.38.14:731][458]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.38.14:735][458]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.38.14:736][458]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.38.14:830][458]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.38.14:831][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.38.14:831][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.38.14:831][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.38.14:832][458]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.38.14:854][458]LogInit: FAudioDevice initialized.
+[2021.04.18-21.38.14:864][458]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.38.14:870][458]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.04.19-00.38.14
+[2021.04.18-21.38.14:870][458]LogWorld: Bringing up level for play took: 0.005695
+[2021.04.18-21.38.14:871][458]LogOnline: OSS: Creating online subsystem instance for: :Context_162
+[2021.04.18-21.38.14:880][458]PIE: Server logged in
+[2021.04.18-21.38.14:881][458]PIE: Play in editor total start time 0.218 seconds.
+[2021.04.18-21.39.26:391][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.39.26:391][440]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.39.26:392][440]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.39.26:393][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.39.26:402][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.39.26:407][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.39.26:468][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.39.26:469][440]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CDC0642700), frame # 664440
+[2021.04.18-21.39.26:469][440]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CE6EAE5A00), frame # 664440
+[2021.04.18-21.39.26:472][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.04.18-21.39.26:501][441]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2021.04.18-21.40.40:176][401]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.04.18-21.41.11:865][954]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.41.11:935][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.04.18-21.42.18:442][ 17]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.42.18:500][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.04.18-21.43.47:920][506]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.43.47:985][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.04.18-21.43.48:469][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.43.48:490][523]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_BombE96FAF6D4C9CD11B046EEE8BE97F5910.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.43.48:509][523]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.43.48:509][523]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.43.58:609][948]BlueprintLog: New page: Compile Bomb_Anim_BP
+[2021.04.18-21.43.58:674][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.04.18-21.43.59:135][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP" FILE="A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.uasset" SILENT=true
+[2021.04.18-21.43.59:170][963]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Bomb_Anim_BP1014E176477453CF5BB55896E009FD82.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.uasset'
+[2021.04.18-21.43.59:195][963]AssetCheck: New page: Asset Save: Bomb_Anim_BP
+[2021.04.18-21.43.59:195][963]LogContentValidation: Display: Validating AnimBlueprint /Game/MechCombat/meshes/Ai_Spider_Bomb/Bomb_Anim_BP.Bomb_Anim_BP
+[2021.04.18-21.44.19:997][444]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MechCombat/meshes/Ai_Spider_Bomb/spider_Core_AnimBP.spider_Core_AnimBP
+[2021.04.18-21.44.20:006][444]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.18-21.44.20:312][444]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.18-21.44.20:669][444]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.18-21.44.25:902][640]BlueprintLog: New page: Compile spider_Core_AnimBP
+[2021.04.18-21.44.25:977][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.04.18-21.44.26:447][653]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/spider_Core_AnimBPFF6E303A46AC4CEBFD32748C52AF28A7.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/spider_Core_AnimBP.uasset'
+[2021.04.18-21.44.26:468][653]AssetCheck: New page: Asset Save: spider_Core_AnimBP
+[2021.04.18-21.44.26:468][653]LogContentValidation: Display: Validating AnimBlueprint /Game/MechCombat/meshes/Ai_Spider_Bomb/spider_Core_AnimBP.spider_Core_AnimBP
+[2021.04.18-21.44.44:993][396]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.44.45:002][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.44.45:002][396]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:44:45 AM)
+[2021.04.18-21.44.45:003][396]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.44.45:039][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035744s)
+[2021.04.18-21.44.45:040][396]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.44.45:040][396]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CFE4DA8800), frame # 677396
+[2021.04.18-21.44.45:040][396]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CDD5FD47C0), frame # 677396
+[2021.04.18-21.44.45:040][396]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2021.04.18-21.44.45:040][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.037484s)
+[2021.04.18-21.44.45:075][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.04.18-21.44.45:079][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.44.45:079][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.44.45:079][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.44.45:079][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.44.45:079][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.44.45:079][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.44.45:079][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.44.45:079][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.44.45:080][396]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.44.45:080][396]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.44.45:083][396]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.44.45:083][396]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.44.45:218][396]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.44.45:219][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.44.45:219][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.44.45:219][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.44.45:220][396]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.44.45:278][396]LogInit: FAudioDevice initialized.
+[2021.04.18-21.44.45:299][396]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.44.45:313][396]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.19-00.44.45
+[2021.04.18-21.44.45:315][396]LogWorld: Bringing up level for play took: 0.012877
+[2021.04.18-21.44.45:316][396]LogOnline: OSS: Creating online subsystem instance for: :Context_166
+[2021.04.18-21.44.45:339][396]PIE: Server logged in
+[2021.04.18-21.44.45:341][396]PIE: Play in editor total start time 0.339 seconds.
+[2021.04.18-21.44.45:396][397]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057122 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2021.04.18-21.45.02:362][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.45.02:362][310]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.45.02:362][310]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.45.02:365][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.45.02:377][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.45.02:382][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.45.02:411][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.45.02:429][310]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CDD5FD47C0), frame # 678310
+[2021.04.18-21.45.02:429][310]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CFE4DA8800), frame # 678310
+[2021.04.18-21.45.02:432][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.04.18-21.45.02:451][311]LogPlayLevel: Display: Destroying online subsystem :Context_166
+[2021.04.18-21.45.26:369][154]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.45.26:461][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.18-21.45.28:109][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.45.28:131][209]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb6C4BBEDA4891FA2609C342AF463637E9.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.45.28:154][209]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.45.28:154][209]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.45.31:123][334]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.45.31:137][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.45.31:138][334]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:45:31 AM)
+[2021.04.18-21.45.31:138][334]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.45.31:169][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030826s)
+[2021.04.18-21.45.31:170][334]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.45.31:170][334]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CDD667B800), frame # 679334
+[2021.04.18-21.45.31:170][334]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CD53F97EC0), frame # 679334
+[2021.04.18-21.45.31:171][334]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2021.04.18-21.45.31:171][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.032733s)
+[2021.04.18-21.45.31:207][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.18-21.45.31:209][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.45.31:209][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.45.31:209][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.45.31:209][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.45.31:209][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.45.31:209][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.45.31:209][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.45.31:209][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.45.31:209][334]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.45.31:209][334]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.45.31:213][334]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.45.31:213][334]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.45.31:304][334]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.45.31:305][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.45.31:305][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.45.31:305][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.45.31:305][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.45.31:323][334]LogInit: FAudioDevice initialized.
+[2021.04.18-21.45.31:334][334]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.45.31:339][334]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.19-00.45.31
+[2021.04.18-21.45.31:339][334]LogWorld: Bringing up level for play took: 0.004736
+[2021.04.18-21.45.31:339][334]LogOnline: OSS: Creating online subsystem instance for: :Context_167
+[2021.04.18-21.45.31:349][334]PIE: Server logged in
+[2021.04.18-21.45.31:350][334]PIE: Play in editor total start time 0.215 seconds.
+[2021.04.18-21.46.03:051][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.46.03:051][226]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.46.03:052][226]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.46.03:053][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.46.03:064][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.46.03:069][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.46.03:121][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.46.03:124][226]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CD53F97EC0), frame # 681226
+[2021.04.18-21.46.03:124][226]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CDD667B800), frame # 681226
+[2021.04.18-21.46.03:127][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.04.18-21.46.03:146][227]LogPlayLevel: Display: Destroying online subsystem :Context_167
+[2021.04.18-21.46.25:424][877]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.46.25:483][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.04.18-21.46.26:895][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.46.26:914][935]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb9D0F267C48C654B05249DBB96006EAD1.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.46.26:936][935]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.46.26:936][935]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.46.31:650][202]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.46.31:658][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.46.31:658][202]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:46:31 AM)
+[2021.04.18-21.46.31:658][202]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.46.31:689][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029976s)
+[2021.04.18-21.46.31:690][202]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.46.31:690][202]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CF87671E00), frame # 682202
+[2021.04.18-21.46.31:690][202]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CDBFB02340), frame # 682202
+[2021.04.18-21.46.31:690][202]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2021.04.18-21.46.31:690][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.031850s)
+[2021.04.18-21.46.31:722][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.04.18-21.46.31:723][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.46.31:723][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.46.31:724][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.46.31:724][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.46.31:724][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.46.31:724][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.46.31:724][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.46.31:724][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.46.31:724][202]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.46.31:724][202]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.46.31:727][202]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.46.31:727][202]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.46.31:807][202]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.46.31:807][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.46.31:807][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.46.31:807][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.46.31:808][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.46.31:825][202]LogInit: FAudioDevice initialized.
+[2021.04.18-21.46.31:837][202]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.46.31:842][202]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.19-00.46.31
+[2021.04.18-21.46.31:843][202]LogWorld: Bringing up level for play took: 0.004109
+[2021.04.18-21.46.31:843][202]LogOnline: OSS: Creating online subsystem instance for: :Context_168
+[2021.04.18-21.46.31:854][202]PIE: Server logged in
+[2021.04.18-21.46.31:855][202]PIE: Play in editor total start time 0.198 seconds.
+[2021.04.18-21.46.49:621][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.46.49:621][262]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.46.49:621][262]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.46.49:622][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.46.49:629][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.46.49:635][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.46.49:674][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.46.49:696][262]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CDBFB02340), frame # 683262
+[2021.04.18-21.46.49:696][262]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CF87671E00), frame # 683262
+[2021.04.18-21.46.49:698][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.18-21.46.49:725][263]LogPlayLevel: Display: Destroying online subsystem :Context_168
+[2021.04.18-21.47.59:087][719]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.47.59:165][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.04.18-21.47.59:806][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.47.59:828][747]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_BombFC2E43764297BD90C1915FBEC4D6CD27.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.47.59:851][747]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.47.59:851][747]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.48.01:690][848]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.48.01:699][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.48.01:699][848]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:48:01 AM)
+[2021.04.18-21.48.01:699][848]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.48.01:727][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027889s)
+[2021.04.18-21.48.01:728][848]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.48.01:728][848]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CE7C009000), frame # 686848
+[2021.04.18-21.48.01:728][848]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CDC297A200), frame # 686848
+[2021.04.18-21.48.01:729][848]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2021.04.18-21.48.01:729][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.029646s)
+[2021.04.18-21.48.01:763][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.04.18-21.48.01:764][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.48.01:764][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.48.01:764][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.48.01:764][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.48.01:764][848]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.48.01:764][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.48.01:764][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.48.01:764][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.48.01:765][848]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.48.01:765][848]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.48.01:768][848]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.48.01:768][848]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.48.01:842][848]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.48.01:842][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.48.01:842][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.48.01:842][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.48.01:843][848]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.48.01:861][848]LogInit: FAudioDevice initialized.
+[2021.04.18-21.48.01:870][848]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.48.01:875][848]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.19-00.48.01
+[2021.04.18-21.48.01:875][848]LogWorld: Bringing up level for play took: 0.003908
+[2021.04.18-21.48.01:876][848]LogOnline: OSS: Creating online subsystem instance for: :Context_169
+[2021.04.18-21.48.01:884][848]PIE: Server logged in
+[2021.04.18-21.48.01:885][848]PIE: Play in editor total start time 0.187 seconds.
+[2021.04.18-21.48.18:870][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.48.18:870][852]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.48.18:870][852]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.48.18:871][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.48.18:883][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.48.18:889][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.48.18:937][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.48.18:938][852]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CDC297A200), frame # 687852
+[2021.04.18-21.48.18:938][852]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CE7C009000), frame # 687852
+[2021.04.18-21.48.18:941][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.18-21.48.18:968][853]LogPlayLevel: Display: Destroying online subsystem :Context_169
+[2021.04.18-21.48.28:100][273]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.48.28:176][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.04.18-21.48.30:455][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.48.30:478][378]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb75698FB14FAFFA3480FDE8901A2200BD.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.48.30:502][378]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.48.30:502][378]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.48.31:836][450]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.48.31:851][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.48.31:851][450]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:48:31 AM)
+[2021.04.18-21.48.31:852][450]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.48.31:887][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035654s)
+[2021.04.18-21.48.31:889][450]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.48.31:889][450]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CD9E65FE00), frame # 688450
+[2021.04.18-21.48.31:889][450]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CDC9B6C400), frame # 688450
+[2021.04.18-21.48.31:889][450]LogPlayLevel: PIE: World Init took: (0.001560s)
+[2021.04.18-21.48.31:889][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.037432s)
+[2021.04.18-21.48.31:925][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.04.18-21.48.31:926][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.48.31:926][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.48.31:926][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.48.31:926][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.48.31:926][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.48.31:926][450]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.48.31:926][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.48.31:926][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.48.31:927][450]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.48.31:927][450]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.48.31:931][450]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.48.31:931][450]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.48.32:037][450]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.48.32:038][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.48.32:038][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.48.32:038][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.48.32:038][450]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.48.32:057][450]LogInit: FAudioDevice initialized.
+[2021.04.18-21.48.32:066][450]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.48.32:071][450]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.19-00.48.32
+[2021.04.18-21.48.32:072][450]LogWorld: Bringing up level for play took: 0.005226
+[2021.04.18-21.48.32:072][450]LogOnline: OSS: Creating online subsystem instance for: :Context_170
+[2021.04.18-21.48.32:082][450]PIE: Server logged in
+[2021.04.18-21.48.32:082][450]PIE: Play in editor total start time 0.233 seconds.
+[2021.04.18-21.48.38:920][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.48.38:920][854]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.48.38:920][854]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.48.38:921][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.48.38:933][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.48.38:937][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.48.38:984][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.48.38:986][854]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CDC9B6C400), frame # 688854
+[2021.04.18-21.48.38:986][854]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CD9E65FE00), frame # 688854
+[2021.04.18-21.48.38:989][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.18-21.48.39:018][855]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2021.04.18-21.48.40:443][895]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.18-21.48.50:307][258]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.18-21.48.50:447][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.18-21.48.51:309][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2021.04.18-21.48.51:386][277]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/ThirdPersonCharacterD941F9BD4D3EAED4F0B5748D6622B65E.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.18-21.48.51:407][277]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.18-21.48.51:407][277]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.18-21.48.52:824][341]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.48.52:833][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.48.52:833][341]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:48:52 AM)
+[2021.04.18-21.48.52:833][341]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.48.52:862][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028198s)
+[2021.04.18-21.48.52:863][341]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.48.52:863][341]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D02DA6D800), frame # 689341
+[2021.04.18-21.48.52:864][341]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CCEF4DB600), frame # 689341
+[2021.04.18-21.48.52:864][341]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2021.04.18-21.48.52:864][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.029932s)
+[2021.04.18-21.48.52:904][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.04.18-21.48.52:906][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.48.52:906][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.48.52:906][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.48.52:906][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.48.52:906][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.48.52:906][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.48.52:906][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.48.52:906][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.48.52:906][341]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.48.52:906][341]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.48.52:910][341]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.48.52:910][341]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.48.52:995][341]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.48.52:996][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.48.52:996][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.48.52:996][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.48.52:996][341]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.48.53:013][341]LogInit: FAudioDevice initialized.
+[2021.04.18-21.48.53:025][341]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.48.53:030][341]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.19-00.48.53
+[2021.04.18-21.48.53:031][341]LogWorld: Bringing up level for play took: 0.004635
+[2021.04.18-21.48.53:032][341]LogOnline: OSS: Creating online subsystem instance for: :Context_172
+[2021.04.18-21.48.53:040][341]PIE: Server logged in
+[2021.04.18-21.48.53:040][341]PIE: Play in editor total start time 0.207 seconds.
+[2021.04.18-21.49.07:139][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.49.07:139][184]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.49.07:140][184]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.49.07:140][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.49.07:147][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.49.07:151][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.49.07:198][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.49.07:198][184]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CCEF4DB600), frame # 690184
+[2021.04.18-21.49.07:198][184]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D02DA6D800), frame # 690184
+[2021.04.18-21.49.07:201][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.04.18-21.49.07:229][185]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2021.04.18-21.49.32:320][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.04.18-21.49.32:321][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/Level1_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.18-21.49.32:479][270]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1_Auto0610044D54DD253BDCB8A43959746EBC5.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/Level1_Auto0.umap'
+[2021.04.18-21.49.32:481][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level1' took 0.200
+[2021.04.18-21.49.32:481][270]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.200
+[2021.04.18-21.49.32:481][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off] ([1] browsable assets)...
+[2021.04.18-21.49.32:505][270]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.Spider_Bomb_Anim_Bomb_Off]
+[2021.04.18-21.49.32:505][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off]
+[2021.04.18-21.49.32:513][270]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb_Anim_Bomb_Off_Auto0611E141F440B02E4AF50DB829E772C06.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off_Auto0.uasset'
+[2021.04.18-21.49.32:514][270]LogFileHelpers: Auto-saving content packages took 0.034
+[2021.04.18-21.50.53:574][547]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.04.18-21.52.15:923][770]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.52.16:002][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.18-21.56.06:677][637]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-21.56.06:758][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.18-21.56.07:421][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-21.56.07:442][661]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_BombD1485FDA46E063C013E9808A69A5CEBC.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-21.56.07:461][661]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-21.56.07:461][661]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-21.56.10:815][829]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-21.56.10:829][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-21.56.10:830][829]PIE: New page: PIE session: Level1 (Apr 19, 2021, 3:56:10 AM)
+[2021.04.18-21.56.10:830][829]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-21.56.10:863][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032674s)
+[2021.04.18-21.56.10:864][829]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-21.56.10:864][829]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CF88216000), frame # 703829
+[2021.04.18-21.56.10:864][829]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CF0A254540), frame # 703829
+[2021.04.18-21.56.10:864][829]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2021.04.18-21.56.10:864][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.034044s)
+[2021.04.18-21.56.10:894][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.04.18-21.56.10:896][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-21.56.10:896][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-21.56.10:896][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-21.56.10:896][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-21.56.10:896][829]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-21.56.10:896][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-21.56.10:896][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-21.56.10:896][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-21.56.10:897][829]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-21.56.10:897][829]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-21.56.10:900][829]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-21.56.10:900][829]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-21.56.10:969][829]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-21.56.10:970][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-21.56.10:970][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-21.56.10:970][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-21.56.10:970][829]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-21.56.10:984][829]LogInit: FAudioDevice initialized.
+[2021.04.18-21.56.10:997][829]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-21.56.11:001][829]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.19-00.56.11
+[2021.04.18-21.56.11:002][829]LogWorld: Bringing up level for play took: 0.003865
+[2021.04.18-21.56.11:002][829]LogOnline: OSS: Creating online subsystem instance for: :Context_173
+[2021.04.18-21.56.11:012][829]PIE: Server logged in
+[2021.04.18-21.56.11:013][829]PIE: Play in editor total start time 0.185 seconds.
+[2021.04.18-21.56.42:091][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.56.42:091][681]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-21.56.42:091][681]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-21.56.42:092][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.56.42:098][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-21.56.42:102][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-21.56.42:150][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-21.56.42:153][681]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CF0A254540), frame # 705681
+[2021.04.18-21.56.42:153][681]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CF88216000), frame # 705681
+[2021.04.18-21.56.42:156][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.18-21.56.42:178][682]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2021.04.18-22.00.21:851][848]BlueprintLog: New page: Compile Spider_Bomb
+[2021.04.18-22.00.21:947][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.04.18-22.00.28:418][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2021.04.18-22.00.28:441][962]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_BombE36C7669470A24B19A45F79A53A85861.tmp' to 'A:/licenta low poly/MechCombatGame/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2021.04.18-22.00.28:457][962]AssetCheck: New page: Asset Save: Spider_Bomb
+[2021.04.18-22.00.28:457][962]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2021.04.18-22.00.31:071][106]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-22.00.31:083][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-22.00.31:083][106]PIE: New page: PIE session: Level1 (Apr 19, 2021, 4:00:31 AM)
+[2021.04.18-22.00.31:083][106]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.04.18-22.00.31:111][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027725s)
+[2021.04.18-22.00.31:112][106]LogAIModule: Creating AISystem for world Level1
+[2021.04.18-22.00.31:112][106]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CE36AA2400), frame # 716106
+[2021.04.18-22.00.31:112][106]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CCD6007C40), frame # 716106
+[2021.04.18-22.00.31:112][106]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2021.04.18-22.00.31:112][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.029031s)
+[2021.04.18-22.00.31:146][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.18-22.00.31:148][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-22.00.31:148][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-22.00.31:148][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-22.00.31:148][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-22.00.31:148][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-22.00.31:148][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-22.00.31:148][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-22.00.31:148][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-22.00.31:149][106]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-22.00.31:149][106]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-22.00.31:151][106]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-22.00.31:151][106]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-22.00.31:233][106]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-22.00.31:233][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-22.00.31:233][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-22.00.31:233][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-22.00.31:234][106]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-22.00.31:251][106]LogInit: FAudioDevice initialized.
+[2021.04.18-22.00.31:262][106]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-22.00.31:266][106]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.19-01.00.31
+[2021.04.18-22.00.31:267][106]LogWorld: Bringing up level for play took: 0.003661
+[2021.04.18-22.00.31:267][106]LogOnline: OSS: Creating online subsystem instance for: :Context_174
+[2021.04.18-22.00.31:278][106]PIE: Server logged in
+[2021.04.18-22.00.31:279][106]PIE: Play in editor total start time 0.197 seconds.
+[2021.04.18-22.00.51:610][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-22.00.51:610][320]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.04.18-22.00.51:611][320]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.00.51:612][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.00.51:621][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-22.00.51:625][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.00.51:677][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-22.00.51:678][320]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CCD6007C40), frame # 717320
+[2021.04.18-22.00.51:678][320]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CE36AA2400), frame # 717320
+[2021.04.18-22.00.51:681][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.18-22.00.51:702][321]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2021.04.18-22.01.21:536][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.04.18-22.01.21:538][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.18-22.01.21:659][836]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1_Auto1F634D2C54352716DDEA0A1B049F94970.tmp' to 'A:/licenta low poly/MechCombatGame/Saved/Autosaves/Game/Level1_Auto1.umap'
+[2021.04.18-22.01.21:660][836]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level1' took 0.155
+[2021.04.18-22.01.21:660][836]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2021.04.18-22.01.54:282][ 58]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.18-22.01.54:293][ 58]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.18-22.01.54:303][ 58]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:303][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.54:443][ 58]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:443][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.54:447][ 58]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:447][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.54:557][ 58]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:557][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.54:579][ 58]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.18-22.01.54:579][ 58]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:579][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.54:670][ 58]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:670][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.54:675][ 58]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:675][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.54:946][ 58]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:947][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.54:965][ 58]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.18-22.01.54:965][ 58]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.01.54:965][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.01.55:433][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="A:/licenta low poly/MechCombatGame/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.18-22.01.55:464][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.04.18-22.01.55:585][ 73]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1729CB04044285C85444555B913865D2B.tmp' to 'A:/licenta low poly/MechCombatGame/Content/Level1.umap'
+[2021.04.18-22.01.55:601][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="A:/licenta low poly/MechCombatGame/Content/Level1_BuiltData.uasset" SILENT=true
+[2021.04.18-22.01.56:055][ 73]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1_BuiltData09DA3BDC4FE49C7AAF6CFFB2C56B158B.tmp' to 'A:/licenta low poly/MechCombatGame/Content/Level1_BuiltData.uasset'
+[2021.04.18-22.01.56:076][ 73]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.18-22.01.56:076][ 73]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2021.04.18-22.01.56:076][ 73]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2021.04.18-22.01.57:019][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="A:/licenta low poly/MechCombatGame/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.18-22.01.57:042][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.04.18-22.01.57:160][124]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1750CF88B4D59E548B57812A9971E0025.tmp' to 'A:/licenta low poly/MechCombatGame/Content/Level1.umap'
+[2021.04.18-22.01.57:172][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="A:/licenta low poly/MechCombatGame/Content/Level1_BuiltData.uasset" SILENT=true
+[2021.04.18-22.01.57:609][124]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1_BuiltData667EE4894490585132067F8804A9B334.tmp' to 'A:/licenta low poly/MechCombatGame/Content/Level1_BuiltData.uasset'
+[2021.04.18-22.01.57:628][124]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.18-22.01.57:628][124]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2021.04.18-22.01.57:628][124]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2021.04.18-22.01.58:091][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="A:/licenta low poly/MechCombatGame/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.18-22.01.58:111][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.04.18-22.01.58:228][148]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level18DFD44A147EF083119C01DB3ED700B5F.tmp' to 'A:/licenta low poly/MechCombatGame/Content/Level1.umap'
+[2021.04.18-22.01.58:240][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="A:/licenta low poly/MechCombatGame/Content/Level1_BuiltData.uasset" SILENT=true
+[2021.04.18-22.01.58:680][148]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Level1_BuiltData2BEA319B41431EC10056329BFA65A7A4.tmp' to 'A:/licenta low poly/MechCombatGame/Content/Level1_BuiltData.uasset'
+[2021.04.18-22.01.58:699][148]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.18-22.01.58:699][148]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2021.04.18-22.01.58:699][148]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2021.04.18-22.02.04:728][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.18-22.02.06:029][506]LogSlate: Window 'Save Content' being destroyed
+[2021.04.18-22.02.06:071][506]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/Spider_Bomb_Anim_Bomb_Off4E1A3FFB4330C4DF1F2EFDB760DA9B79.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.uasset'
+[2021.04.18-22.02.06:072][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/meshes/pickups/TimeFragment" FILE="A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/pickups/TimeFragment.uasset" SILENT=true
+[2021.04.18-22.02.06:076][506]LogSavePackage: Moving 'A:/licenta low poly/MechCombatGame/Saved/TimeFragmentE52A1A92475FBE69635FC48622021689.tmp' to 'A:/licenta low poly/MechCombatGame/Content/MechCombat/meshes/pickups/TimeFragment.uasset'
+[2021.04.18-22.02.06:119][506]LogSlate: Window 'MechCombatGame - Unreal Editor' being destroyed
+[2021.04.18-22.02.06:121][506]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.18-22.02.06:423][506]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.18-22.02.06:423][506]LogContentValidation: Display: Validating AnimSequence /Game/MechCombat/meshes/Ai_Spider_Bomb/Spider_Bomb_Anim_Bomb_Off.Spider_Bomb_Anim_Bomb_Off
+[2021.04.18-22.02.06:423][506]LogContentValidation: Display: Validating StaticMesh /Game/MechCombat/meshes/pickups/TimeFragment.TimeFragment
+[2021.04.18-22.02.06:436][507]Cmd: QUIT_EDITOR
+[2021.04.18-22.02.06:436][507]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.18-22.02.06:443][507]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.18-22.02.07:100][507]LogExit: Preparing to exit.
+[2021.04.18-22.02.07:304][507]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:305][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:305][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:305][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:305][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:305][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:305][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:305][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:305][507]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:306][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:306][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:306][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:306][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:306][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:306][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:306][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:306][507]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:307][507]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:308][507]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:309][507]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:310][507]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:311][507]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:312][507]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:313][507]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:313][507]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:315][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:315][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:315][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:315][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:315][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:315][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:315][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:315][507]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:316][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:316][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:316][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:316][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:316][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:316][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:316][507]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-22.02.07:316][507]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:317][507]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:322][507]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:363][507]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.18-22.02.07:388][507]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.02.07:388][507]LogExit: Editor shut down
+[2021.04.18-22.02.07:390][507]LogExit: Transaction tracking system shut down
+[2021.04.18-22.02.07:895][507]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001CCCF23F600), frame # 718507
+[2021.04.18-22.02.07:895][507]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CCCF274680), frame # 718507
+[2021.04.18-22.02.07:895][507]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CCCF2A1E00), frame # 718507
+[2021.04.18-22.02.08:061][507]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CD3ACB0CC0), frame # 718507
+[2021.04.18-22.02.08:062][507]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CE46F3E200), frame # 718507
+[2021.04.18-22.02.08:233][507]LogExit: Object subsystem successfully closed.
+[2021.04.18-22.02.08:271][507]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (814)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module BlueprintGraph (812)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module SequencerWidgets (810)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module AnimationEditor (808)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module PinnedCommandList (806)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module SkeletonEditor (804)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (802)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (800)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (798)
+[2021.04.18-22.02.08:350][507]LogModuleManager: Shutting down and abandoning module Voice (796)
+[2021.04.18-22.02.08:351][507]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (794)
+[2021.04.18-22.02.08:351][507]LogModuleManager: Shutting down and abandoning module NewLevelDialog (792)
+[2021.04.18-22.02.08:351][507]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2021.04.18-22.02.08:351][507]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2021.04.18-22.02.08:351][507]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2021.04.18-22.02.08:354][507]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2021.04.18-22.02.08:354][507]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2021.04.18-22.02.08:354][507]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2021.04.18-22.02.08:355][507]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2021.04.18-22.02.08:357][507]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2021.04.18-22.02.08:357][507]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2021.04.18-22.02.08:357][507]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2021.04.18-22.02.08:359][507]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2021.04.18-22.02.08:359][507]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2021.04.18-22.02.08:359][507]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2021.04.18-22.02.08:359][507]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2021.04.18-22.02.08:361][507]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2021.04.18-22.02.08:361][507]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2021.04.18-22.02.08:361][507]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2021.04.18-22.02.08:361][507]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2021.04.18-22.02.08:361][507]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2021.04.18-22.02.08:361][507]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2021.04.18-22.02.08:361][507]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2021.04.18-22.02.08:362][507]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2021.04.18-22.02.08:362][507]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2021.04.18-22.02.08:364][507]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2021.04.18-22.02.08:364][507]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2021.04.18-22.02.08:364][507]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2021.04.18-22.02.08:364][507]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2021.04.18-22.02.08:364][507]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2021.04.18-22.02.08:364][507]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2021.04.18-22.02.08:365][507]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2021.04.18-22.02.08:366][507]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2021.04.18-22.02.08:367][507]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2021.04.18-22.02.08:367][507]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2021.04.18-22.02.08:367][507]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2021.04.18-22.02.08:367][507]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2021.04.18-22.02.08:367][507]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2021.04.18-22.02.08:367][507]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2021.04.18-22.02.08:368][507]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2021.04.18-22.02.08:368][507]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2021.04.18-22.02.08:368][507]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2021.04.18-22.02.08:369][507]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2021.04.18-22.02.08:369][507]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2021.04.18-22.02.08:369][507]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2021.04.18-22.02.08:369][507]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2021.04.18-22.02.08:369][507]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2021.04.18-22.02.08:371][507]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2021.04.18-22.02.08:372][507]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2021.04.18-22.02.08:372][507]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2021.04.18-22.02.08:372][507]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2021.04.18-22.02.08:372][507]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2021.04.18-22.02.08:372][507]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2021.04.18-22.02.09:283][507]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2021.04.18-22.02.09:283][507]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2021.04.18-22.02.09:283][507]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2021.04.18-22.02.09:283][507]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2021.04.18-22.02.09:283][507]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2021.04.18-22.02.09:287][507]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2021.04.18-22.02.09:288][507]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2021.04.18-22.02.09:288][507]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2021.04.18-22.02.09:288][507]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2021.04.18-22.02.09:288][507]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2021.04.18-22.02.09:289][507]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2021.04.18-22.02.09:289][507]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2021.04.18-22.02.09:290][507]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2021.04.18-22.02.09:290][507]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2021.04.18-22.02.09:290][507]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2021.04.18-22.02.09:290][507]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2021.04.18-22.02.09:291][507]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2021.04.18-22.02.09:291][507]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2021.04.18-22.02.09:291][507]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2021.04.18-22.02.09:292][507]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2021.04.18-22.02.09:292][507]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2021.04.18-22.02.09:292][507]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2021.04.18-22.02.09:292][507]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2021.04.18-22.02.09:292][507]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2021.04.18-22.02.09:293][507]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2021.04.18-22.02.09:294][507]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2021.04.18-22.02.09:326][507]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2021.04.18-22.02.09:326][507]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2021.04.18-22.02.09:327][507]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2021.04.18-22.02.09:328][507]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2021.04.18-22.02.09:328][507]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2021.04.18-22.02.09:328][507]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2021.04.18-22.02.09:328][507]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2021.04.18-22.02.09:328][507]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2021.04.18-22.02.09:328][507]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2021.04.18-22.02.09:328][507]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2021.04.18-22.02.09:328][507]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2021.04.18-22.02.09:344][507]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2021.04.18-22.02.09:344][507]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2021.04.18-22.02.09:345][507]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2021.04.18-22.02.09:345][507]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2021.04.18-22.02.09:346][507]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2021.04.18-22.02.09:347][507]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2021.04.18-22.02.09:347][507]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2021.04.18-22.02.09:371][507]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2021.04.18-22.02.09:371][507]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2021.04.18-22.02.09:375][507]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2021.04.18-22.02.09:376][507]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2021.04.18-22.02.09:392][507]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2021.04.18-22.02.09:393][507]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2021.04.18-22.02.09:393][507]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2021.04.18-22.02.09:393][507]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2021.04.18-22.02.09:394][507]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2021.04.18-22.02.09:394][507]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2021.04.18-22.02.09:394][507]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2021.04.18-22.02.09:394][507]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2021.04.18-22.02.09:394][507]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2021.04.18-22.02.09:394][507]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2021.04.18-22.02.09:394][507]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2021.04.18-22.02.09:395][507]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2021.04.18-22.02.09:395][507]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2021.04.18-22.02.09:395][507]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2021.04.18-22.02.09:395][507]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2021.04.18-22.02.09:396][507]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2021.04.18-22.02.09:396][507]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2021.04.18-22.02.09:396][507]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2021.04.18-22.02.09:396][507]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2021.04.18-22.02.09:396][507]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2021.04.18-22.02.09:396][507]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2021.04.18-22.02.09:396][507]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2021.04.18-22.02.09:397][507]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2021.04.18-22.02.09:397][507]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2021.04.18-22.02.09:397][507]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2021.04.18-22.02.09:398][507]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2021.04.18-22.02.09:400][507]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2021.04.18-22.02.09:400][507]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2021.04.18-22.02.09:401][507]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2021.04.18-22.02.09:401][507]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2021.04.18-22.02.09:401][507]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2021.04.18-22.02.09:401][507]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2021.04.18-22.02.09:401][507]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2021.04.18-22.02.09:401][507]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2021.04.18-22.02.09:402][507]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2021.04.18-22.02.09:403][507]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2021.04.18-22.02.09:403][507]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2021.04.18-22.02.09:403][507]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2021.04.18-22.02.09:404][507]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2021.04.18-22.02.09:405][507]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2021.04.18-22.02.09:405][507]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2021.04.18-22.02.09:405][507]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2021.04.18-22.02.09:405][507]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2021.04.18-22.02.09:405][507]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2021.04.18-22.02.09:405][507]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2021.04.18-22.02.09:406][507]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2021.04.18-22.02.09:406][507]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2021.04.18-22.02.09:406][507]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2021.04.18-22.02.09:406][507]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2021.04.18-22.02.09:406][507]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2021.04.18-22.02.09:407][507]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2021.04.18-22.02.09:408][507]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2021.04.18-22.02.09:408][507]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2021.04.18-22.02.09:409][507]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2021.04.18-22.02.09:409][507]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2021.04.18-22.02.09:409][507]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2021.04.18-22.02.09:409][507]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2021.04.18-22.02.09:409][507]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2021.04.18-22.02.09:409][507]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2021.04.18-22.02.09:409][507]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2021.04.18-22.02.09:409][507]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2021.04.18-22.02.09:410][507]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2021.04.18-22.02.09:410][507]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2021.04.18-22.02.09:410][507]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2021.04.18-22.02.09:410][507]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2021.04.18-22.02.09:410][507]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2021.04.18-22.02.09:410][507]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2021.04.18-22.02.09:410][507]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2021.04.18-22.02.09:511][507]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2021.04.18-22.02.09:612][507]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2021.04.18-22.02.09:612][507]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2021.04.18-22.02.09:612][507]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2021.04.18-22.02.09:612][507]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2021.04.18-22.02.09:612][507]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2021.04.18-22.02.09:612][507]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.04.18-22.02.09:612][507]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2021.04.18-22.02.09:612][507]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2021.04.18-22.02.09:612][507]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2021.04.18-22.02.09:613][507]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2021.04.18-22.02.09:613][507]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2021.04.18-22.02.09:613][507]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.04.18-22.02.09:614][507]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2021.04.18-22.02.09:614][507]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2021.04.18-22.02.09:614][507]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2021.04.18-22.02.09:614][507]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2021.04.18-22.02.09:614][507]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2021.04.18-22.02.09:615][507]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2021.04.18-22.02.09:615][507]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2021.04.18-22.02.09:617][507]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2021.04.18-22.02.09:617][507]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2021.04.18-22.02.09:617][507]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2021.04.18-22.02.09:617][507]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2021.04.18-22.02.09:617][507]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2021.04.18-22.02.09:617][507]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2021.04.18-22.02.09:618][507]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2021.04.18-22.02.09:620][507]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2021.04.18-22.02.09:620][507]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2021.04.18-22.02.09:620][507]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2021.04.18-22.02.09:620][507]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2021.04.18-22.02.09:621][507]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2021.04.18-22.02.09:621][507]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2021.04.18-22.02.09:621][507]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2021.04.18-22.02.09:621][507]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2021.04.18-22.02.09:621][507]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2021.04.18-22.02.09:622][507]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2021.04.18-22.02.09:691][507]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2021.04.18-22.02.09:691][507]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2021.04.18-22.02.09:691][507]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2021.04.18-22.02.09:691][507]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2021.04.18-22.02.09:691][507]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2021.04.18-22.02.09:692][507]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2021.04.18-22.02.09:692][507]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2021.04.18-22.02.09:692][507]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2021.04.18-22.02.09:692][507]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2021.04.18-22.02.09:692][507]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2021.04.18-22.02.09:693][507]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2021.04.18-22.02.09:693][507]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2021.04.18-22.02.09:694][507]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2021.04.18-22.02.09:694][507]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2021.04.18-22.02.09:695][507]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2021.04.18-22.02.09:695][507]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2021.04.18-22.02.09:695][507]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2021.04.18-22.02.09:695][507]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2021.04.18-22.02.09:695][507]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2021.04.18-22.02.09:698][507]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2021.04.18-22.02.09:698][507]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2021.04.18-22.02.09:700][507]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2021.04.18-22.02.09:700][507]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2021.04.18-22.02.09:700][507]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2021.04.18-22.02.09:700][507]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2021.04.18-22.02.09:700][507]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2021.04.18-22.02.09:700][507]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2021.04.18-22.02.09:700][507]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2021.04.18-22.02.09:701][507]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2021.04.18-22.02.09:701][507]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2021.04.18-22.02.09:701][507]LogModuleManager: Shutting down and abandoning module Core (216)
+[2021.04.18-22.02.09:701][507]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2021.04.18-22.02.09:701][507]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2021.04.18-22.02.09:701][507]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2021.04.18-22.02.09:702][507]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2021.04.18-22.02.09:705][507]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2021.04.18-22.02.09:705][507]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2021.04.18-22.02.09:705][507]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2021.04.18-22.02.09:705][507]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2021.04.18-22.02.09:705][507]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2021.04.18-22.02.09:705][507]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2021.04.18-22.02.09:706][507]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2021.04.18-22.02.09:706][507]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2021.04.18-22.02.09:707][507]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2021.04.18-22.02.09:708][507]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2021.04.18-22.02.09:708][507]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2021.04.18-22.02.09:708][507]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2021.04.18-22.02.09:708][507]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2021.04.18-22.02.09:708][507]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2021.04.18-22.02.09:709][507]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2021.04.18-22.02.09:709][507]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2021.04.18-22.02.09:709][507]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2021.04.18-22.02.09:710][507]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2021.04.18-22.02.09:710][507]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2021.04.18-22.02.09:710][507]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2021.04.18-22.02.09:710][507]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2021.04.18-22.02.09:710][507]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2021.04.18-22.02.09:710][507]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2021.04.18-22.02.09:711][507]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2021.04.18-22.02.09:723][507]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2021.04.18-22.02.09:728][507]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2021.04.18-22.02.09:729][507]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2021.04.18-22.02.09:729][507]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2021.04.18-22.02.09:729][507]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2021.04.18-22.02.09:729][507]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2021.04.18-22.02.09:730][507]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2021.04.18-22.02.09:730][507]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2021.04.18-22.02.09:730][507]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2021.04.18-22.02.09:730][507]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2021.04.18-22.02.09:767][507]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2021.04.18-22.02.09:850][507]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2021.04.18-22.02.09:850][507]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2021.04.18-22.02.09:850][507]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2021.04.18-22.02.09:850][507]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2021.04.18-22.02.09:850][507]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2021.04.18-22.02.09:850][507]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2021.04.18-22.02.09:851][507]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2021.04.18-22.02.09:851][507]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2021.04.18-22.02.09:851][507]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2021.04.18-22.02.09:851][507]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2021.04.18-22.02.09:851][507]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2021.04.18-22.02.09:852][507]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2021.04.18-22.02.09:852][507]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2021.04.18-22.02.09:852][507]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2021.04.18-22.02.09:852][507]LogHMD: Freeing OpenVRDLLHandle.
+[2021.04.18-22.02.09:852][507]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.04.18-22.02.09:852][507]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.04.18-22.02.09:852][507]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.04.18-22.02.09:852][507]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.04.18-22.02.09:852][507]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.04.18-22.02.09:853][507]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.04.18-22.02.09:854][507]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.04.18-22.02.09:927][507]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.04.18-22.02.09:927][507]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.04.18-22.02.09:927][507]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEC7D6B32-4FAE-5F3C-55F8-3B8517FA25E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.2-13908680%2B%2B%2BUE4%2BRelease-4.25&UserID=f1b9ded547cf9b2d432df3bd41ef4d8d%7Ce9e650a1edbd4e05b32e03c32a785867%7Cdc1f24f9-38cc-4b58-a83a-a207c4af5f37&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.04.18-22.02.09:956][507]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.04.18-22.02.09:959][507]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.04.18-22.02.09:961][507]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.04.18-22.02.09:962][507]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.04.18-22.02.09:962][507]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.04.18-22.02.09:963][507]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.04.18-22.02.09:963][507]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.04.18-22.02.09:963][507]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.04.18-22.02.09:963][507]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.04.18-22.02.09:963][507]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.04.18-22.02.09:964][507]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.04.18-22.02.09:964][507]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.04.18-22.02.09:964][507]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.04.18-22.02.09:964][507]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.04.18-22.02.09:966][507]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.04.18-22.02.09:966][507]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.04.18-22.02.09:969][507]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.04.18-22.02.09:969][507]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.04.18-22.02.09:969][507]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.04.18-22.02.09:969][507]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.04.18-22.02.09:976][507]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.04.18-22.02.09:976][507]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.04.18-22.02.09:976][507]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.04.18-22.02.09:977][507]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.04.18-22.02.09:977][507]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.04.18-22.02.09:977][507]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.04.18-22.02.09:977][507]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.04.18-22.02.09:978][507]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.04.18-22.02.09:978][507]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.04.18-22.02.09:978][507]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.04.18-22.02.09:979][507]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.04.18-22.02.09:979][507]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.04.18-22.02.09:979][507]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.04.18-22.02.10:022][507]LogD3D11RHI: Shutdown
+[2021.04.18-22.02.10:022][507]LogD3D11RHI: CleanupD3DDevice
+[2021.04.18-22.02.10:093][507]LogExit: Exiting.
+[2021.04.18-22.02.10:121][507]Log file closed, 04/19/21 01:02:10
